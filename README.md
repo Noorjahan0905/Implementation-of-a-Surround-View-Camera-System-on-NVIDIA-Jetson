@@ -15,7 +15,7 @@ This project implements a surround-view image stitching system using 6 Arducam c
 ## 🛠️ Setup
 
 ### Hardware
-- NVIDIA Jetson Nano / Xavier / TX2
+- NVIDIA Jetson AGX Orion
 - Arducam CSI cameras x6
 
 ### Software Dependencies
