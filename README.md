@@ -4,8 +4,7 @@ This project implements a surround-view image stitching system using 6 Arducam c
 
 ## 📷 Functional Block Diagram
 
-<img src="![Screenshot 2025-06-01 133705](https://github.com/user-attachments/assets/5faf5890-d0f6-4e7b-94cc-ba4ccf793ae7)
-" width="500">
+<img src="https://github.com/user-attachments/assets/5faf5890-d0f6-4e7b-94cc-ba4ccf793ae7" width="500">
 
 ## 🚀 Features
 - High-res image capture using GStreamer and Arducam on Jetson
